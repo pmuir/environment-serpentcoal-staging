@@ -13,3 +13,6 @@ dependencies:
 - name: ext-jacoco
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
+- name: ext-java-code-quality
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
